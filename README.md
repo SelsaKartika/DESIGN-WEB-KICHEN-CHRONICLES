@@ -15,7 +15,6 @@ Platform berbasis web yang menyediakan berbagai resep masakan untuk membantu pen
 - [🚀 Cara Menjalankan Project](#-cara-menjalankan-project)
 - [🤝 Kontribusi](#-kontribusi)
 - [📚 Daftar Pustaka](#-daftar-pustaka)
-- [📄 Lisensi](#-lisensi)
 
 ---
 
@@ -135,7 +134,3 @@ https://opinion-park.com/106/frekuensi-memasak
 https://apjii.or.id
 
 ---
-
-## 📄 Lisensi
-
-Project ini menggunakan lisensi **MIT License**.
